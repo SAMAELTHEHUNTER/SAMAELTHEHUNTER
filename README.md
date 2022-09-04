@@ -1,5 +1,5 @@
 - 👋 Hi, I’m amir jalili 
-- 👀 I’m interested in coding
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning dot net
 - 📫 you can reach me on amirjalilibazel@mail.um.ac.ir
 
